@@ -1,2 +1,0 @@
-# JPBtech
-Pagina web JPBtech
